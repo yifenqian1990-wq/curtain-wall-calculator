@@ -1,0 +1,8 @@
+{
+  "name": "幕墙单元辅材自动计算器",
+  "description": "一键导入幕墙加工细目Excel，智能识别型材、面板和钢件，自动通过计算公式计算辅材与紧固件含量，并支持原表一键填回与导出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
